@@ -1,13 +1,13 @@
 /* container-fluid styles*/
 .container-fluid {
-    margin-top: 5%;
-    margin-bottom: 5% ;
+    margin-top: 4%;
+    margin-bottom: 4% ;
     width:90%;
     height: auto;
 }
 .column{
-    margin-left: 10px;
-    margin-right: 10px;
+    margin-left: 2%;
+    margin-right: auto;
 }
 
 /*styles for nav bar*/
