@@ -3,7 +3,7 @@
   <component name="SshConfigs">
     <configs>
       <sshConfig authType="PASSWORD" host="afsconnect1.njit.edu" id="139fd457-f544-4671-816a-a3958c8d49e3" port="22" customName="NJIT" nameFormat="CUSTOM" username="jc926" />
-      <sshConfig authType="PASSWORD" host="afsconnect1.njit.edu" id="356e7b0f-670a-4696-8261-5ff7e4c19b8f" port="22" customName="NJIT" nameFormat="CUSTOM" username="jc926" />
+      <sshConfig authType="PASSWORD" host="afsconnect1.njit.edu" id="98f475cd-9c67-490b-85a0-26f94befc295" port="22" customName="NJIT" nameFormat="CUSTOM" username="jc926" />
     </configs>
   </component>
 </project>
