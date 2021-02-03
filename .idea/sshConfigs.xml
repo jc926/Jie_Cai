@@ -2,8 +2,15 @@
 <project version="4">
   <component name="SshConfigs">
     <configs>
-      <sshConfig authType="PASSWORD" host="afsconnect1.njit.edu" id="139fd457-f544-4671-816a-a3958c8d49e3" port="22" customName="NJIT" nameFormat="CUSTOM" username="jc926" />
-      <sshConfig authType="PASSWORD" host="afsconnect1.njit.edu" id="98f475cd-9c67-490b-85a0-26f94befc295" port="22" customName="NJIT" nameFormat="CUSTOM" username="jc926" />
+      <sshConfig authType="PASSWORD" host="afsconnect1.njit.edu" id="139fd457-f544-4671-816a-a3958c8d49e3" port="22" customName="NJIT" nameFormat="CUSTOM" username="jc926">
+        <option name="customName" value="NJIT" />
+      </sshConfig>
+      <sshConfig authType="PASSWORD" host="afsconnect1.njit.edu" id="98f475cd-9c67-490b-85a0-26f94befc295" port="22" customName="NJIT" nameFormat="CUSTOM" username="jc926">
+        <option name="customName" value="NJIT" />
+      </sshConfig>
+      <sshConfig authType="PASSWORD" host="afsconnect1.njit.edu" id="ebce7264-13d0-41f9-9f71-0f4125a5c546" port="22" customName="NJIT" nameFormat="CUSTOM">
+        <option name="customName" value="NJIT" />
+      </sshConfig>
     </configs>
   </component>
 </project>
