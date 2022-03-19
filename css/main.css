@@ -100,10 +100,10 @@
 .button{
     font-size: 18px;
     border: none;
-    font-weight: 550 ;
+    font-weight: 500;
     padding: 8px 14px;
     background-color: #D3D3D3;
-    border-radius: 10px;
+    border-radius: 6px;
 }
 .button:hover {
     background-color: #696969;
