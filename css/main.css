@@ -12,30 +12,38 @@
 
 /*styles for nav bar*/
 .navbar {
-    background-color:darkred !important;
+    background-color:#1e407c !important;
 
+}
+.navbar-brand{
+    color:whitesmoke;
+}
+.navbar-brand:hover{
+    color:darkgrey;
 }
 .nav-link {
     color: black;
 }
 .nav-link:hover{
-    color:darkgrey!important;
+    color:darkgray !important;
 }
+
+
 .link {
     color: black;
     font-weight:bold;
     text-decoration: none;
 }
 .link:hover{
-    color: darkred;
+    /*color: !important;*/
     text-decoration: none;
 }
 .dropdown-menu {
-    background-color:darkred !important;
+    background-color:whitesmoke !important;
 }
 
 .dropdown-item {
-    background-color: darkred;
+    background-color: #1e407c;
     color: whitesmoke;
 }
 .dropdown-item:hover{
@@ -68,8 +76,8 @@
     left: 0;
     bottom: 0;
     width: 100%;
-    background-color: darkred;
-    color: white;
+    background-color: #1e407c ;
+    color: whitesmoke;
     text-align: center;
     padding: 10px;
     font-size: 0.6rem;
