@@ -101,6 +101,15 @@
     color:whitesmoke;
 }
 
+.project-jumbotron{
+    background-image: url("../image/research.jpg");
+    background-size: cover;
+    padding-top: 5%;
+    padding-left: 3%;
+    padding-bottom: 5%;
+    color:rgb(0, 0, 0);
+}
+
 /* button and contnent display*/
 /*#myDIV{*/
 /*    display: none;*/
