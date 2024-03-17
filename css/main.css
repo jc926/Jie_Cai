@@ -53,7 +53,7 @@
 /*styles for selfimage */
 
 #selfimage {
-    width: 70%;
+    width: 90%;
     display: block;
 }
 /****styles for sidebar *****/
@@ -93,7 +93,7 @@
 */
 
 .teaching-jumbotron{
-    background-image: url("../image/teaching.jpg");
+    background-image: url("../image/teaching1.jpg");
     background-size: cover;
     padding-top: 20%;
     padding-left: 5%;
