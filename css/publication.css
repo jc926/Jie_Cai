@@ -43,13 +43,13 @@ p{
 /*}*/
 
 .linkpaper {
-    color: dodgerblue;
+    color:  #791cb5;
     font-weight:bold;
     text-decoration: none;
 
 }
 .linkpaper:hover{
-    color: paleturquoise;
+    color: #e6cbf7;
     text-decoration: none;
 }
 
