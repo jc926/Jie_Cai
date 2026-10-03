@@ -12,7 +12,7 @@
 
 /*styles for nav bar*/
 .navbar {
-    background-color: #791cb5 !important;
+    background-color: #8d3a74 !important;
 
 }
 .navbar-brand{
@@ -32,7 +32,7 @@
     color: black;
 }
 .nav-link-c:hover{
-    color:  #791cb5;
+    color:  #8d3a74;
 }
 /* adjust the item space*/
 .nav-pills .nav-item {
@@ -54,7 +54,7 @@
 }
 .link:hover{
     /*color: !important;*/
-    color: #791cb5;
+    color: #8d3a74;
     text-decoration: none;
 }
 .dropdown-menu {
@@ -62,7 +62,7 @@
 }
 
 .dropdown-item {
-    background-color: #791cb5;
+    background-color: #8d3a74;
     color: whitesmoke;
 }
 .dropdown-item:hover{
@@ -95,7 +95,7 @@
     left: 0;
     bottom: 0;
     width: 100%;
-    background-color:  #791cb5;
+    background-color:  #8d3a74;
     color: whitesmoke;
     text-align: center;
     padding: 10px;
