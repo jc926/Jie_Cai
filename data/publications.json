@@ -28,6 +28,10 @@
     {
       "name": "Chapter",
       "order": 6
+    },
+    {
+      "name": "Chapter added new",
+      "order": 7
     }
   ],
   "publications": [
@@ -115,6 +119,23 @@
       "order": 1,
       "category": "Conference",
       "category_order": 1
+    },
+    {
+      "id": "chi2026_test",
+      "year": 2026,
+      "title": "test",
+      "authors": "Zhi Zheng, Chun Yu, Weihao Chen, Minzheng Song, Binglin Liu, Jianyang Liu, Shiyi Wang, Xutong Wang, Jie Cai, and Yuanchun Shi",
+      "venue": "CHI 2026",
+      "pdf": "../paper/OpenCD_CHI26.pdf",
+      "doi": "",
+      "award": "",
+      "media": "",
+      "project": "",
+      "video": "",
+      "visible": "TRUE",
+      "order": 1,
+      "category": "Chapter added new",
+      "category_order": 7
     }
   ]
 }
